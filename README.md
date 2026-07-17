@@ -1,6 +1,6 @@
 # 🚛 India Inter-City Freight & Logistics Network Analytics
 
-**An end-to-end data science system for modeling, predicting, and visualizing delay risk across India's Multi-Modal Logistics Park (MMLP) freight network..**
+**An end-to-end data science system for modeling, predicting, and visualizing delay risk across India's Multi-Modal Logistics Park freight network..**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/ML-GradientBoosting-orange?logo=scikitlearn)
